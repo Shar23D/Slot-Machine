@@ -1,0 +1,2 @@
+Practicing coding in python following directions from [Tech With Tim](https://www.youtube.com/watch?v=th4OBktqK1I&list=PLe8Z3nSOrzZzPDVx3FbMGIBWEWsOVyhjL&index=27&t=33s&ab_channel=TechWithTim)
+This project is to create a simple slot machine program where the user input how much money they have, how many lines they want to bet on (1 to MAX_LINES), how much they want to bet for each line (the amount is the same)
